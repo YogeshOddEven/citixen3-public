@@ -1,0 +1,16 @@
+[20-Nov-2022 23:48:13 Asia/Kolkata] PHP Warning:  Undefined array key "max_range" in /home1/gcdevtea/public_html/citizen3/app/API/set_crime_alert_range.php on line 21
+[20-Nov-2022 23:48:25 Asia/Kolkata] PHP Warning:  Undefined array key "max_range" in /home1/gcdevtea/public_html/citizen3/app/API/set_crime_alert_range.php on line 21
+[20-Nov-2022 23:48:39 Asia/Kolkata] PHP Warning:  Undefined array key "max_range" in /home1/gcdevtea/public_html/citizen3/app/API/set_crime_alert_range.php on line 21
+[23-Nov-2022 05:58:57 Asia/Kolkata] PHP Warning:  Undefined variable $file_field in /home1/gcdevtea/public_html/citizen3/app/API/reset_password.php on line 25
+[23-Nov-2022 05:58:57 Asia/Kolkata] PHP Warning:  Undefined variable $data in /home1/gcdevtea/public_html/citizen3/app/API/reset_password.php on line 58
+[23-Nov-2022 06:09:05 Asia/Kolkata] PHP Warning:  Undefined array key "max_range" in /home1/gcdevtea/public_html/citizen3/app/API/set_crime_alert_range.php on line 21
+[23-Nov-2022 06:23:21 Asia/Kolkata] PHP Warning:  Undefined array key "contact_no" in /home1/gcdevtea/public_html/citizen3/app/API/update_crime.php on line 18
+[23-Nov-2022 06:23:21 Asia/Kolkata] PHP Warning:  Undefined array key "first_name" in /home1/gcdevtea/public_html/citizen3/app/API/update_crime.php on line 20
+[23-Nov-2022 06:23:21 Asia/Kolkata] PHP Warning:  Undefined array key "relationship" in /home1/gcdevtea/public_html/citizen3/app/API/update_crime.php on line 21
+[02-Dec-2022 09:14:35 Asia/Kolkata] PHP Warning:  Undefined array key "max_range" in /home1/gcdevtea/public_html/citizen3/app/API/set_crime_alert_range.php on line 21
+[02-Dec-2022 09:37:58 Asia/Kolkata] PHP Warning:  Undefined variable $data in /home1/gcdevtea/public_html/citizen3/app/API/add_crime.php on line 125
+[02-Dec-2022 09:38:52 Asia/Kolkata] PHP Warning:  Undefined variable $data in /home1/gcdevtea/public_html/citizen3/app/API/add_crime.php on line 125
+[02-Dec-2022 09:38:56 Asia/Kolkata] PHP Warning:  Undefined variable $data in /home1/gcdevtea/public_html/citizen3/app/API/add_crime.php on line 125
+[02-Dec-2022 09:38:58 Asia/Kolkata] PHP Warning:  Undefined variable $data in /home1/gcdevtea/public_html/citizen3/app/API/add_crime.php on line 125
+[02-Dec-2022 09:38:59 Asia/Kolkata] PHP Warning:  Undefined variable $data in /home1/gcdevtea/public_html/citizen3/app/API/add_crime.php on line 125
+[02-Dec-2022 09:38:59 Asia/Kolkata] PHP Warning:  Undefined variable $data in /home1/gcdevtea/public_html/citizen3/app/API/add_crime.php on line 125

@@ -1,0 +1,252 @@
+<resources>
+    <string name="app_name">Citizen3</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+
+    <string name="send_to">Send to..</string>
+
+    <string name="channel_silent_notification">Silent Notification</string>
+    <string name="notification_groups">Groups</string>
+    <string name="channel_notification">Notification</string>
+
+    <string name="error_title">Error</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_update">Update</string>
+    <string name="server_erro">We are experiencing technical difficulties and are working on a resolution. Please check
+        back shortly.
+    </string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+    <string name="api_timeout_message">API timeout</string>
+
+    <string name="msg_no_internet_available">Please check your internet connection!</string>
+    <string name="msg_please_try_again">Please try again</string>
+    <string name="msg_something_went_wrong_please_try_again">Something went wrong please try again.</string>
+    <string name="str_please_wait">Please wait....</string>
+    <string name="pick_image_intent_text">Choose an image</string>
+    <string name="msg_enable_display_over_apps">Please enable Display over other apps.</string>
+
+    <string name="label_yes">Yes</string>
+    <string name="label_no">No</string>
+    <string name="label_ok">OK</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_continue">Continue</string>
+
+    <string name="msg_no_data_available">No data available</string>
+
+    <string name="msg_contact_permission">Contact permission needed.</string>
+    <string name="msg_camera_permission">To be able to share pictures, grant access to your camera.</string>
+    <string name="msg_camera_permission_for_video">To be able to share video, grant access to your camera.</string>
+    <string name="msg_storage_permission">To share media, allow access to your device\'s photos, medias and files.</string>
+
+    <string name="msg_permission_step">
+        <![CDATA[You can change permissions in Settings > Apps > App > Permissions.]]></string>
+    <string name="title_activity_main">NavDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_map">Map</string>
+    <string name="title_account">Account</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_alerts">Alerts</string>
+    <string name="title_contact">Contact</string>
+    <string name="title_crime_detail">Crime detail</string>
+    <string name="title_create_a_report">Create a report</string>
+    <string name="title_update_a_report">Update a report</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="hint_email">Enter email address…</string>
+    <string name="hint_password">Enter password…</string>
+    <string name="lbl_login">Log in</string>
+    <string name="lbl_create_an_account">Create an account</string>
+    <string name="lbl_sign_up">Sign Up</string>
+    <string name="lbl_rest_password">Reset password</string>
+    <string name="lbl_forgot_password">Forgot password</string>
+
+    <string name="lbl_denuncia_sin_temor">Denuncia sin temor</string>
+    <string name="lbl_email_address">Email address</string>
+    <string name="hint_enter_your_email_address">Enter your email address</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_new_password">New password</string>
+    <string name="hint_enter_your_old_password">Enter your old password</string>
+    <string name="hint_enter_your_password">Enter your password</string>
+    <string name="hint_enter_your_new_password">Enter your new password</string>
+    <string name="lbl_forgot_your_password"><u>Forgot your password?</u></string>
+    <string name="lbl_create_new_accout"><u>Create new account</u></string>
+    <string name="msg_enter_email">Please enter valid email address</string>
+    <string name="msg_enter_password">Please enter password</string>
+    <string name="msg_enter_old_password">Please enter old password</string>
+    <string name="msg_confirm_your_password">Please confirm your password</string>
+    <string name="msg_rest_password_instruction">Enter the email associated with your account and we’ll send an email with instructions to reset your password.</string>
+    <string name="lbl_send">Send</string>
+    <string name="msg_we_have_sent_a_password_recovery_to_your_email">We have sent a password recovery to your email.</string>
+    <string name="lbl_did_not_receive_the_email">Did not receive the email?</string>
+    <string name="lbl_resend">Resend</string>
+    <string name="lbl_try_another_email_address"><u>Try another email address</u></string>
+    <string name="lbl_check_your_email">Check your email</string>
+    <string name="msg_enter_your_new_password_nust_be_different_from_previous_used_passwords">Enter your new password must be different from previous used passwords.</string>
+    <string name="lbl_confirm_password">Confirm password</string>
+    <string name="hint_enter_your_confirm_password">Enter your confirm password</string>
+    <string name="lbl_create_new_password">Create new password</string>
+    <string name="lbl_change_profile_picture">Change profile picture</string>
+    <string name="lbl_take_photo">Take photo</string>
+    <string name="lbl_choose_from_library">Choose from library</string>
+    <string name="lbl_first_name_asterisk">First name *</string>
+    <string name="hint_enter_first_name">Enter first name</string>
+    <string name="hint_last_name">Enter last name</string>
+    <string name="lbl_last_name_astrisk">Last name *</string>
+    <string name="lbl_last_name">Last name</string>
+    <string name="lbl_email_address_asterisk">Email address *</string>
+    <string name="lbl_phone_number_asterisk">Phone number *</string>
+    <string name="hint_enter_your_phone_number">Enter your phone number</string>
+    <string name="lbl_already_have_an_account_login_in">Already have an account? <u>Log in</u></string>
+    <string name="lbl_welcome_back">Welcome back!</string>
+    <string name="lbl_total_crime_report">Total crime report</string>
+    <string name="lbl_total_crime_victim">Total crime victim</string>
+    <string name="lbl_if_this_is_an_emergency_ncall_911">If this is an emergency, CALL 911!</string>
+    <string name="lbl_crime">Reports</string>
+    <string name="lbl_free">Free</string>
+    <string name="lbl_paid">Paid</string>
+    <string name="msg_citizen3_is_not_in_subscription_plan">Citizen3 is not in subscription plan</string>
+    <string name="lbl_upgrade">Upgrade</string>
+    <string name="lbl_alert_contact_setup">Alert contact setup</string>
+    <string name="lbl_can_you_setup_the_contacts">Can you setup the contacts</string>
+    <string name="lbl_invitation">Invitation</string>
+    <string name="lbl_invite_friends_and_family_to_download_the_app">iInvite friends and family to download the app</string>
+    <string name="lbl_sign_out">Sign out</string>
+    <string name="lbl_first_name">First name</string>
+    <string name="lbl_paternal_last_name">Paternal last name</string>
+    <string name="lbl_enter_paternal_last_name">enter paternal last name</string>
+    <string name="lbl_maternal_last_name">Maternal last name</string>
+    <string name="lbl_enter_maternal_last_name">Enter maternal last name</string>
+    <string name="lbl_phone_number">Phone number</string>
+    <string name="lbl_birth_date">Birth date</string>
+    <string name="hint_select_your_birth_date">Select your birth date</string>
+    <string name="lbl_address">Address</string>
+    <string name="hint_enter_your_address">Enter your address</string>
+    <string name="lbl_state">State</string>
+    <string name="hint_enter_your_state">Enter your state</string>
+    <string name="lbl_city">City</string>
+    <string name="hint_enter_your_city">Enter your city</string>
+    <string name="hint_enter_your_zip_code">Enter your zip code</string>
+    <string name="lbl_zip_code">Zip code</string>
+    <string name="lbl_enter_your_province">Enter your province</string>
+    <string name="lbl_province">Province</string>
+    <string name="lbl_country">Country</string>
+    <string name="hint_enter_your_country">Enter your country</string>
+    <string name="lbl_allow_access_to_address_book">Allow access to address book</string>
+    <string name="lbl_contact_list">Contact list</string>
+    <string name="lbl_invite_people_to_your_group">Invite people to your group</string>
+    <string name="lbl_invited">Invited</string>
+    <string name="msg_specify_an_address_to_receive_daily_and_weekly_alerts_address">Specify an address to receive daily and weekly alerts address.</string>
+    <string name="lbl_address_asterisk">Address *</string>
+    <string name="hint_enter_a_location">Enter a location</string>
+    <string name="lbl_radius_asterisk">Radius *</string>
+    <string name="hint_select_a_radius">Select a radius</string>
+    <string name="lbl_next">Next</string>
+    <string name="lbl_save">Save</string>
+    <string name="lbl_are_you_victim_or_witness">Are you victim or witness?</string>
+    <string name="lbl_victim">Victim</string>
+    <string name="lbl_witness">Witness</string>
+    <string name="lbl_are_you_reporting_anonymously">Are you reporting anonymously?</string>
+    <string name="lbl_when_did_the_crime_take_place">When did the crime take place?</string>
+    <string name="lbl_select_time">Select time</string>
+    <string name="lbl_where_did_the_crime_take_place">Where did the crime take place?</string>
+    <string name="lbl_select_location">Select location</string>
+    <string name="lbl_storage">Storage</string>
+    <string name="lbl_photos">Photos</string>
+    <string name="lbl_videos">Videos</string>
+    <string name="msg_any_personal_information_will_not_be_included">Any personal information will not be included on this report</string>
+    <string name="msg_user_user_uploading_allow">User should allow uploading multiple photos for crime type</string>
+    <string name="info_the_size_should_be_determined_later">*The size should be determined later</string>
+    <string name="lbl_user_should_allow_limited_size_videos">User should allow limited size videos.</string>
+    <string name="lbl_crime_type">Crime type</string>
+    <string name="lbl_select_crime_type">Select crime type</string>
+    <string name="lbl_description">Description</string>
+    <string name="lbl_type_your_description">Type your description</string>
+    <string name="lbl_additional_note">Additional note</string>
+    <string name="lbl_notes">Notes</string>
+    <string name="lbl_submit_report">Submit report</string>
+    <string name="lbl_now">Now</string>
+    <string name="lbl_select_date_time"><![CDATA[Select date & time]]></string>
+    <string name="lbl_choose_date">Choose date</string>
+    <string name="lbl_current_location">Current location</string>
+    <string name="lbl_manually_choose_a_location">Manually choose a location</string>
+    <string name="lbl_enter_a_location">Enter a location</string>
+    <string name="lbl_upload_video">Upload video</string>
+    <string name="lbl_take_video">Take video</string>
+    <string name="lbl_upload_photos">Upload photos</string>
+    <string name="hint_search">Search</string>
+    <string name="lbl_set_location">Set location</string>
+    <string name="lbl_address_or_location">Address or location</string>
+    <string name="lbl_use_my_current_location">Use my current location</string>
+    <string name="title_submit_crime_tip">Submit a crime tip</string>
+    <string name="title_terms_and_conditions">Terms and conditions</string>
+    <string name="title_message_alert_set_up">Message alert set up</string>
+    <string name="title_near_by_crime">Near by crime</string>
+    <string name="msg_enter_first_name">Enter first name.</string>
+    <string name="msg_enter_last_name">Enter last name.</string>
+    <string name="msg_enter_phone_number">Enter phone number.</string>
+    <string name="msg_enter_contact_no">Enter contact no.</string>
+    <string name="msg_enter_relationship">Enter relationship</string>
+
+    <string-array name="crime_list">
+        <item>Robbery</item>
+        <item>Accident</item>
+        <item>Fire</item>
+        <item>Sexual Abuse</item>
+        <item>Domestic Violence</item>
+        <item>Kidnapping / Human Trafficking</item>
+        <item>Terrorism</item>
+        <item>Drugs</item>
+        <item>Hate Crime</item>
+        <item>Firearm or explosives</item>
+    </string-array>
+
+    <string name="title_permission_denied">Permission denied</string>
+    <string name="lbl_goto_settings">Go to settings</string>
+    <string name="msg_please_enter_all_detail">Please enter all detail.</string>
+    <string name="msg_pls_select_date_time">Please Select Date and Time.</string>
+    <string name="msg_pls_select_crime_type">Please Select Crime Type.</string>
+    <string name="lbl_done">Done</string>
+    <string name="lbl_submit">Submit</string>
+    <string name="msg_pls_select_video_less_then_10mb">Please select Video that is less then 10MB</string>
+    <string name="msg_pls_select_video_less_then_30mb">Please select Video that is less then 30MB</string>
+    <string name="lbl_photo_and_video"><![CDATA[Photo & Video]]></string>
+    <string name="lbl_add_contact"><u>Add contact</u></string>
+    <string name="hint_enter_last_name">enter last name</string>
+    <string name="lbl_contact_no">Contact No *</string>
+    <string name="hint_enter_contact_no">enter contact no</string>
+    <string name="lbl_relationship">Relationship *</string>
+    <string name="hint_enter_relationship">Enter relationship</string>
+    <string name="lbl_edit">Edit</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_notification_channel_name" translatable="true">Citizen 3 Notification</string>
+
+    <string name="signup_success_message">Hi, %s\n\nYou have successfully registered with Citizen 3.Please check your email and activate your account.\n\nThanks</string>
+    <string name="msg_subscribe_for_this_feature">Your are not subscribed for this feature, please subscribe to use this feature</string>
+    <string name="msg_want_to_update_request">This report is not open for updates. Do you want to request access to make updates?</string>
+    <string name="menu_share">Share</string>
+
+    <string name="lbl_select_share_option">Select share option</string>
+    <string name="lbl_application_contact">Application contact</string>
+    <string name="lbl_phone_contact">Phone contact</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_email_list">Email list</string>
+    <string name="hint_enter_email_address">Enter email address</string>
+
+    <string name="lbl_language" translatable="false">Language</string>
+    <string name="lbl_english" translatable="false">English</string>
+    <string name="lbl_spanish" translatable="false">Spanish</string>
+    <string name="msg_sure_to_logout">Are you sure you want to logout?</string>
+    <string name="msg_sure_to_delete_notification">Are you sure you want to delete notification?</string>
+    <string name="title_update_crime">Update crime</string>
+    <string name="lbl_remember_me">Remember me</string>
+    <string name="msg_thank_you_for_your_report">Thank you for your report.</string>
+
+</resources>

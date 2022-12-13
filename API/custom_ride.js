@@ -1,0 +1,1 @@
+return chat.start();

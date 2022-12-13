@@ -1,0 +1,113 @@
+.panel {
+    margin-bottom: 20px;
+    border-color: #ddd;
+    color: #333
+}
+
+.panel[class*=bg-]>.panel-heading {
+    border-color: rgba(255, 255, 255, 0.2)
+}
+
+@media (max-width:768px) {
+    .panel[class*=bg-]>.panel-heading {
+        background-color: inherit
+    }
+}
+
+.panel[class*=bg-].panel-flat>.panel-heading {
+    border-bottom-color: transparent
+}
+
+.panel[class*=bg-]>.panel-body {
+    background-color: inherit
+}
+
+.panel[class*=bg-] .panel-title {
+    color: #fff
+}
+
+.panel[class*=bg-] .table thead td,
+.panel[class*=bg-] .table tbody td,
+.panel[class*=bg-] .table thead th,
+.panel[class*=bg-] .table tbody th {
+    border-color: rgba(255, 255, 255, 0.1)
+}
+
+.panel-body {
+    position: relative
+}
+
+.heading-elements {
+    background-color: inherit;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    height: 36px;
+    margin-top: -18px
+}
+
+.panel-body>.heading-elements {
+    top: 0;
+    margin-top: 14px;
+    z-index: 10
+}
+
+.font50
+{
+font-size:50px!important;
+}
+
+.font40
+{
+font-size:40px!important;
+}
+
+.no-margin {
+    margin: 0 !important;
+}
+.heading-elements-toggle,
+.breadcrumb-elements-toggle {
+    cursor: pointer;
+    display: block;
+    line-height: 1;
+    position: absolute;
+    top: 50%;
+    margin-top: -8px
+}
+
+.heading-elements-toggle,
+.breadcrumb-elements-toggle,
+.heading-elements-toggle:hover,
+.breadcrumb-elements-toggle:hover,
+.heading-elements-toggle:focus,
+.breadcrumb-elements-toggle:focus {
+    color: inherit
+}
+
+.heading-elements-toggle>i,
+.breadcrumb-elements-toggle>i {
+    top: 0
+}
+
+@media (min-width:769px) {
+    .heading-elements-toggle,
+    .breadcrumb-elements-toggle {
+        display: none
+    }
+}
+
+.heading-elements-toggle {
+    right: 20px
+}
+
+.panel-body {
+    padding: 20px;
+}
+.panel {
+    margin-bottom: 20px;
+    color: #fff;
+    /*border: 1px solid transparent;*/
+    border-radius: 3px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,0.05);
+}
